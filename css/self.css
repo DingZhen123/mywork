@@ -1,0 +1,37 @@
+.center {
+    text-align: center;
+}
+.border {
+    font-weight: 700;
+}
+.jpg {
+    text-align: center;
+}
+.red {
+    color: #ff0000;
+}
+h3 {
+
+}
+table {
+    line-height: 25px;
+    width: 1000px;
+    font: 15px/20px "Microsoft YaHei";
+}
+
+*{
+    background-color: aliceblue;
+
+}
+
+#but{
+    margin-left: 1200px;
+    margin-top: 20px;
+    border-color: white;
+    width: 50px;
+    height: 40px;
+    background-color: white;
+    
+}
+
+
